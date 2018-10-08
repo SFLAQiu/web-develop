@@ -34,7 +34,7 @@
 ---
 
 * [我的技术博客](http://blog.thankbabe.com)
-* 微信:DreamYYQ
+* 我的微信:DreamYYQ    
 ![大话WEB开发](http://blog.thankbabe.com/imgs/mywx.jpg)
-* 《大话WEB开发》微信公众号
+* 《大话WEB开发》微信公众号     
 ![大话WEB开发](http://blog.thankbabe.com/imgs/gzh.jpg)
