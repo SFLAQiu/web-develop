@@ -24,6 +24,7 @@
     * [RabbitMQ入门与使用篇](https://github.com/SFLAQiu/web-develop/blob/master/RabbitMQ%E5%85%A5%E9%97%A8%E4%B8%8E%E4%BD%BF%E7%94%A8%E7%AF%87.md)
     * [大话GraphQL新手上车](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DGraphQL%E6%96%B0%E6%89%8B%E4%B8%8A%E8%BD%A6.md)
 * 前端
+    * [前端汇总](https://github.com/SFLAQiu/web-develop/blob/master/%E5%89%8D%E7%AB%AF%E6%B1%87%E6%80%BB.md)
     * [大话WEB前端性能优化基本套路](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DWEB%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%9F%BA%E6%9C%AC%E5%A5%97%E8%B7%AF.md)
 * 其他
     * [大话WEB开发必备神器](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DWEB%E5%BC%80%E5%8F%91%E5%BF%85%E5%A4%87%E7%A5%9E%E5%99%A8.md)
