@@ -1,5 +1,3 @@
-<p align="center">
-
 ![](http://blog.thankbabe.com/imgs/web-develop.png?v=333)
 
 [![协议](https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-%E8%BD%AC%E8%BD%BD%E7%94%B3%E6%98%8E-red.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
@@ -7,8 +5,8 @@
 ![forks](https://img.shields.io/github/forks/SFLAQiu/web-develop.svg)
 ![issues](https://img.shields.io/github/issues/SFLAQiu/web-develop.svg)
 
-</p>
-**更好的阅读访问：**[大话web开发](https://www.yuque.com/sflyq/web-develop)
+
+**更好的阅读访问：** [大话web开发](https://www.yuque.com/sflyq/web-develop)
 
 作为开发者，需要不断的对技术点进行总结，并且把它沉淀下来，写技术博文无疑是最好的方式，随着时间流逝，还可以作为自己每个阶段的技术认知轨迹进行回顾和反思，这里将会持续记录对WEB开发相关总结内容
 
