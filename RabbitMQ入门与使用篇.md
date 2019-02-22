@@ -6,7 +6,7 @@ RabbitMQ是一个由erlang开发的基于AMQP（Advanced Message Queue）协议�
 
 [RabbitMQ的官方](https://www.rabbitmq.com/)   
 
-![image](https://blog.thankbabe.com/imgs/306976-20160720104037044-1071063805.png)
+![image](http://blog.thankbabe.com/imgs/306976-20160720104037044-1071063805.png)
 * 概念：
     * Brocker：消息队列服务器实体。
     * Exchange：消息交换机，指定消息按什么规则，路由到哪个队列。
@@ -62,7 +62,7 @@ rabbitmq-plugins enable rabbitmq_management
 ```
 可以通过访问：`http://localhost:15672`进行测试，默认的登陆账号为：guest，密码为：guest。
 
-![图片](https://blog.waterstrong.me/assets/rabbitmq-guide/overview_totals.png)
+![图片](http://blog.waterstrong.me/assets/rabbitmq-guide/overview_totals.png)
 ---
 
 ### 其他配置
@@ -144,7 +144,7 @@ public class BusBuilder {
 
 **Fanout Exchange**
 
-![image](https://blog.thankbabe.com/imgs/306976-20160728104237622-1486261669.png)   
+![image](http://blog.thankbabe.com/imgs/306976-20160728104237622-1486261669.png)   
 
 
 所有发送到Fanout Exchange的消息都会被转发到与该Exchange 绑定(Binding)的所有Queue上。   
@@ -199,7 +199,7 @@ public static bool FanoutPush<T>(T t, out string msg, string exChangeName = "fan
 ```
 
 ---
-![image](https://blog.thankbabe.com/imgs/306976-20160728104255372-2049742072.png)   
+![image](http://blog.thankbabe.com/imgs/306976-20160728104255372-2049742072.png)   
 所有发送到Direct Exchange的消息被转发到RouteKey中指定的Queue。    
 Direct模式，可以使用RabbitMQ自带的Exchange：default Exchange 。所以不需要将Exchange进行任何绑定(binding)操作 。消息传递时，RouteKey必须完全匹配，才会被队列接收，否则该消息会被抛弃。
 
@@ -296,7 +296,7 @@ public static bool DirectConsume<T>(Action<T> handler, out string msg, string ex
 
 **Topic Exchange**   
 
-![image](https://blog.thankbabe.com/imgs/306976-20160728104309934-1385658660.png)
+![image](http://blog.thankbabe.com/imgs/306976-20160728104309934-1385658660.png)
 
 * 消息发布（Publish） 
 
@@ -428,9 +428,9 @@ public static void TopicConsume<T>(Action<T> callback, string exChangeName = "to
 
 ---   
 具体发布/订阅消息的Demo和相关测试看源码Demo
-![image](https://blog.thankbabe.com/imgs/rabbit_demo.jpg)
+![image](http://blog.thankbabe.com/imgs/rabbit_demo.jpg)
 为了方便使用，demo改进版本：
-![image](https://blog.thankbabe.com/imgs/rabbit_demo_2.jpg)
+![image](http://blog.thankbabe.com/imgs/rabbit_demo_2.jpg)
 ---
 
 ### 注意
@@ -460,13 +460,13 @@ using里的对象在执行完成后被回收了，导致刚连接上去就又断
 到RabbitMQ管理后台添加`TestQueue`VHost，并且分配用户权限，然后到`RabbitMQHelper.BusBuilder`类里配置RabbitMQ连接服务的相关信息
 `host=127.0.0.1:5672;virtualHost=TestQueue;username=sa;password=123456`，（根据配置的内容和用户修改）
 
-![image](https://blog.thankbabe.com/imgs/rabbitmq-ht.png)
+![image](http://blog.thankbabe.com/imgs/rabbitmq-ht.png)
 
 ---   
 **参考资料(鸣谢)：**    
 * [EasyNetQ-基于Topic的路由](http://www.cnblogs.com/zd1994/p/7169123.html)   
 * [.NET操作RabbitMQ组件EasyNetQ使用中文简版文档。](http://www.cnblogs.com/panzi/p/6337568.html)
-* [RabbitMQ入门指南](https://blog.waterstrong.me/rabbitmq-start-guide/)
+* [RabbitMQ入门指南](http://blog.waterstrong.me/rabbitmq-start-guide/)
 
 ---
 

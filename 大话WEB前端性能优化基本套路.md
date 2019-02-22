@@ -1,7 +1,7 @@
 # 大话WEB前端性能优化基本套路
 
 ## 前言   
-![image](https://blog.thankbabe.com/imgs/xnyh.jpg)   
+![image](http://blog.thankbabe.com/imgs/xnyh.jpg)   
 前端性能优化这是一个老生常谈的话题，但是还是有很多人没有真正的重视起来，或者说还没有产生这种意识。
 
 当用户打开页面，首屏加载速度越慢，流失用户的概率就越大，在体验产品的时候性能和交互对用户的影响是最直接的，推广拉新是一门艺术，用户的留存是一门技术，拉进来留住用户，产品体验很关键，这里我以[美柚](https://www.meiyou.com/)的页面为例子，用实例展开说明前端优化的基本套路（适合新手上车）。
@@ -18,23 +18,23 @@
 * css
     * 压缩 
     * 响应头GZIP    
-    ![image](https://blog.thankbabe.com/imgs/cssys.jpg)
+    ![image](http://blog.thankbabe.com/imgs/cssys.jpg)
 
 * js
     * 压缩 
     * 响应头GZIP   
-    ![image](https://blog.thankbabe.com/imgs/jsys.jpg)
+    ![image](http://blog.thankbabe.com/imgs/jsys.jpg)
 
 * html
     * 输出压缩
     * 响应头GZIP   
-    ![image](https://blog.thankbabe.com/imgs/htmlys.jpg)
+    ![image](http://blog.thankbabe.com/imgs/htmlys.jpg)
 
 * 图片
     * 压缩
     * 使用Webp格式   
   
-    ![image](https://blog.thankbabe.com/imgs/znt-webp.jpg)   
+    ![image](http://blog.thankbabe.com/imgs/znt-webp.jpg)   
 * cookie
     * 注意cookie体积，合理设置过期时间
 
@@ -48,9 +48,9 @@
     * 合并 
 * 图片
     * 合并    
-    ![image](https://blog.thankbabe.com/imgs/tbys.jpg)   
+    ![image](http://blog.thankbabe.com/imgs/tbys.jpg)   
     * base64(常用图标：如logo等)
-    ![image](https://blog.thankbabe.com/imgs/basetp.jpg)    
+    ![image](http://blog.thankbabe.com/imgs/basetp.jpg)    
 * 接口
     * 数量控制 
     * 异步ajax

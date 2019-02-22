@@ -1,14 +1,14 @@
 ## 大话GraphQL新手上车
 
 
-![graphql](https://blog.thankbabe.com/imgs/graphql.png?v=2)
+![graphql](http://blog.thankbabe.com/imgs/graphql.png?v=2)
 
 ### GraphQL是什么？
 GraphQL 既是一种用于API的查询语言也是一个满足你数据查询的运行时（来自：[官方解释](http://graphql.cn/learn/)）
 
 理解起来就是，GraphQL有自己查询语法，发起的API请求中通过传递查询语句来告诉服务端需要哪些操作和具体数据字段，GraphQL定义了实现规范，各种的语言分别实现了GraphQL功能框架，通过框架可以对查询语法进行解释执行，然后返回数据输出给客户端
 
-![graphql](https://blog.thankbabe.com/imgs/graphql-server.png?v=2)
+![graphql](http://blog.thankbabe.com/imgs/graphql-server.png?v=2)
 
 
 
@@ -524,7 +524,7 @@ ReactDOM.render(<GraphiQL fetcher={graphQLFetcher} />, document.getElementById('
 
 ```  
 
-![graphql](https://blog.thankbabe.com/imgs/graphiql.jpg?v=1)
+![graphql](http://blog.thankbabe.com/imgs/graphiql.jpg?v=1)
 
 ### 总结
 
