@@ -22,7 +22,7 @@
 * redis
     * [大话Redis基础](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DRedis%E5%9F%BA%E7%A1%80.md)
     * [大话Redis进阶](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DRedis%E8%BF%9B%E9%98%B6.md)
-
+    * [Redis实战之限制操作频率](https://github.com/SFLAQiu/web-develop/blob/master/Redis%E5%AE%9E%E6%88%98%E4%B9%8B%E9%99%90%E5%88%B6%E6%93%8D%E4%BD%9C%E9%A2%91%E7%8E%87.md)
 * 安全
     * [大话WEB安全](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DWEB%E5%AE%89%E5%85%A8.md)
     * [大话接口隐私与安全](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E6%8E%A5%E5%8F%A3%E9%9A%90%E7%A7%81%E4%B8%8E%E5%AE%89%E5%85%A8.md)
