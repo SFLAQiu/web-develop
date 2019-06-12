@@ -98,7 +98,7 @@ public function frequencyLimit(string $action, int $userId, int $time, int $numb
     //第一次累加，设置控制操作频率的有效时间
     if ($current === 1) $r->expire($key, $time);
     //未超出限制次数先放过
-    if ($current < $number) return true;
+    if ($current <= $number) return true;
     //超出后根据需要重新设置过期失效时间 $current === $number 判断保证只重新设置一次
     $type = empty($expire['type']) ? 0 : intval($expire['type']);
     $ttl = empty($expire['ttl']) ? 0 : intval($expire['ttl']);
