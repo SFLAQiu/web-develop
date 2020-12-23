@@ -12,6 +12,7 @@
 
 ---
 * 后端开发：
+    * 大话后端开发的奇淫技巧（二）
     * [大话后端开发的奇淫技巧大集合](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7%E5%A4%A7%E9%9B%86%E5%90%88.md)
     * [大话转岗PHP开发小结](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E8%BD%AC%E5%B2%97PHP%E5%BC%80%E5%8F%91%E5%B0%8F%E7%BB%93.md)
     * [大话APP配置功能的设计和落地](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DAPP%E9%85%8D%E7%BD%AE%E5%8A%9F%E8%83%BD%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%92%8C%E8%90%BD%E5%9C%B0.md)
