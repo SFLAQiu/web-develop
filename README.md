@@ -12,11 +12,11 @@
 
 ---
 * 后端开发：
-    * [大话后端开发的奇淫技巧（二）](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7%EF%BC%88%E4%BA%8C%EF%BC%89.md)
     * [大话后端开发的奇淫技巧大集合](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7%E5%A4%A7%E9%9B%86%E5%90%88.md)
     * [大话转岗PHP开发小结](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E8%BD%AC%E5%B2%97PHP%E5%BC%80%E5%8F%91%E5%B0%8F%E7%BB%93.md)
     * [大话APP配置功能的设计和落地](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9DAPP%E9%85%8D%E7%BD%AE%E5%8A%9F%E8%83%BD%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%92%8C%E8%90%BD%E5%9C%B0.md)
     * [大话业务场景与解决方案-做任务](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E5%81%9A%E4%BB%BB%E5%8A%A1.md)
+    * [大话后端开发的奇淫技巧（二）](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7%EF%BC%88%E4%BA%8C%EF%BC%89.md)
 * 高并发
     * [大话程序猿眼里的高并发架构](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E7%A8%8B%E5%BA%8F%E7%8C%BF%E7%9C%BC%E9%87%8C%E7%9A%84%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9E%B6%E6%9E%84.md)
     * [高并发业务接口开发思路(实战)](https://github.com/SFLAQiu/web-develop/blob/master/%E9%AB%98%E5%B9%B6%E5%8F%91%E4%B8%9A%E5%8A%A1%E6%8E%A5%E5%8F%A3%E5%BC%80%E5%8F%91%E6%80%9D%E8%B7%AF(%E5%AE%9E%E6%88%98).md)
