@@ -11,6 +11,8 @@
 作为开发者，需要不断的对技术点进行总结，并且把它沉淀下来，写技术博文无疑是最好的方式，随着时间流逝，还可以作为自己每个阶段的技术认知轨迹进行回顾和反思，这里将会持续记录对WEB开发相关总结内容
 
 ---
+* 保障高可用：
+    * [如何保障服务的高可用-提升可观测性](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A6%82%E4%BD%95%E4%BF%9D%E9%9A%9C%E6%9C%8D%E5%8A%A1%E7%9A%84%E9%AB%98%E5%8F%AF%E7%94%A8-%E6%8F%90%E5%8D%87%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7.md)
 * 后端开发：
     * [大话后端开发的奇淫技巧大集合](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7%E5%A4%A7%E9%9B%86%E5%90%88.md)
     * [大话后端开发的奇淫技巧（二）](https://github.com/SFLAQiu/web-develop/blob/master/%E5%A4%A7%E8%AF%9D%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E7%9A%84%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7%EF%BC%88%E4%BA%8C%EF%BC%89.md)
