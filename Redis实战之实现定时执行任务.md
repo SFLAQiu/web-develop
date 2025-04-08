@@ -24,7 +24,7 @@
 * 使用hash类型，将【任务标识】对应的任务数据JSON存到hash中 key =【任务标识】，value =【任务数据JSON】
 * 解决及时消耗，可以运行多个进程进行并行执行
 
-![Before VS After](http://blog.thankbabe.com/imgs/yield_task.png?v=666)
+![Before VS After](https://sflaqiu.github.io/imgs/yield_task.png?v=666)
 
 php实现代码DEMO
 ```php

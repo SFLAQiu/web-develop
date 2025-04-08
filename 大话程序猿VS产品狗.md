@@ -14,7 +14,7 @@ author: SFLYQ
 
 一个好的互联网公司都离不开好的产品经理，对产品有着充分理解、有强大的分析判断和执行的能力、有良好的沟通和表达能力，对未来自市场、用户等各方面的需求进行收集，编写产品的需求文档；
 `产品`提出需求，`程序猿`根据需求设计开发方案，在项目的开发过程中程序猿和产品有很多的交集，不断的讨论碰撞，今天就让我们来好好的说一说程序猿和产品狗的恩恩怨怨吧。
-![产品与猿](http://blog.thankbabe.com/imgs/cxy-cpg.jpg) 
+![产品与猿](https://sflaqiu.github.io/imgs/cxy-cpg.jpg) 
 
 
 
@@ -38,7 +38,7 @@ author: SFLYQ
 * `产品狗`：相信我这是最后一次修改。
 * `程序猿OS`：这个本年度最不可信十大的谎言之一，我可以说脏话吗？F**K 哔哔 ***
 
-![改需求](http://blog.thankbabe.com/imgs/cxy-gxq.jpg)    
+![改需求](https://sflaqiu.github.io/imgs/cxy-gxq.jpg)    
 
 > 不同的开发阶段修改需求代价不一样，越到后期代价越高，产品狗请三思，程序猿应该根据修改内容上报上级，不能默默的承受了，不惯着产品随意改需求。
 
@@ -170,7 +170,7 @@ author: SFLYQ
 
 ---
 
-![team](http://blog.thankbabe.com/imgs/team.jpg)   
+![team](https://sflaqiu.github.io/imgs/team.jpg)   
 
 ---
 

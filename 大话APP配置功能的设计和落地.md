@@ -54,13 +54,13 @@
 #### 解决方案
 
 配置管理列表界面：
-![配置管理](http://blog.thankbabe.com/imgs/config_center_manage.png?v=222)
+![配置管理](https://sflaqiu.github.io/imgs/config_center_manage.png?v=222)
 
 配置添加和表单JSON配置界面（开发人员操作）：
-![配置管理](http://blog.thankbabe.com/imgs/config_center_add.png?v=222)
+![配置管理](https://sflaqiu.github.io/imgs/config_center_add.png?v=222)
 
 配置数据表单界面（产品/运营童鞋操作）：
-![配置管理](http://blog.thankbabe.com/imgs/config_center_data_edit.png?v=222)
+![配置管理](https://sflaqiu.github.io/imgs/config_center_data_edit.png?v=222)
 
 
 前端框架/库：

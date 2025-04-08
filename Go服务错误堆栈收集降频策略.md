@@ -17,13 +17,13 @@ logger = zap.New(core).WithOptions(zap.AddCaller()).WithOptions(zap.AddStacktrac
 
 有调用栈日志：
 
-![](http://blog.thankbabe.com/imgs/log1.png)
+![](https://sflaqiu.github.io/imgs/log1.png)
 
-![](http://blog.thankbabe.com/imgs/log2.jpg)
+![](https://sflaqiu.github.io/imgs/log2.jpg)
 
 无调用栈跟踪
 
-![](http://blog.thankbabe.com/imgs/log3.png)
+![](https://sflaqiu.github.io/imgs/log3.png)
 
 ### 设计：
 

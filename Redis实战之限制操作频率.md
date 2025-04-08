@@ -25,7 +25,7 @@
 
 分析上面3个业务场景，可以从中发现其中有相似的逻辑，称它为同类的问题，现在我们就是要抽离这个问题，设计一个通用的解决方案，勾画相同逻辑流程图：
 
-![流程图](http://blog.thankbabe.com/imgs/redis_limit_flow.png?v=4)
+![流程图](https://sflaqiu.github.io/imgs/redis_limit_flow.png?v=4)
 
 
 通过分析上面的需求场景，抽离出他们都需要的那些条件：
@@ -37,7 +37,7 @@
 * 超出后禁止操作时间Z（秒/具体时间）
 * 超出后不让再操作，并提示
 
-![脑图](http://blog.thankbabe.com/imgs/redis_limit.png?v=3)
+![脑图](https://sflaqiu.github.io/imgs/redis_limit.png?v=3)
 
 > （最小时间单位用秒：天/小时/分钟都可换算成秒，用秒可以解决更多的场景）
 

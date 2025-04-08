@@ -1,5 +1,5 @@
 
-![image](http://blog.thankbabe.com/imgs/php.png?v=1)
+![image](https://sflaqiu.github.io/imgs/php.png?v=1)
 
 ### 前言
 
@@ -12,7 +12,7 @@
 
 ### 面向对象
 
-![image](http://blog.thankbabe.com/imgs/pt2.png?v=3)
+![image](https://sflaqiu.github.io/imgs/pt2.png?v=3)
 
 PHP框架内置很多强大函数，超级全局变量，魔术函数，魔术变量，可以通过提供的内置函数对PHP项目进行拓展，数据类型操作，http信息获取等，通过安装拓展添加各种功能支持，框架内置函数调用大部分还是偏向面向过程，通过调用函数，传入要操作的类型数据和依赖数据，这里刚开始有些不习惯，面向对象的开发中习惯直接 类型变量/对象 点出函数。
 
@@ -120,7 +120,7 @@ $logic=new Logic();
 因为PHP是弱类型原因，在做类型比较的时候，往往会因为一个不小心就掉坑里，下面列出类型函数和类型比较的表格
 > 就问你，看到这些表格怕不怕，心中有一万只草泥马奔腾而过，瞬间变成幽怨的小眼神
 
-![image](http://blog.thankbabe.com/imgs/pt1.png?v=1)
+![image](https://sflaqiu.github.io/imgs/pt1.png?v=1)
 
 使用 PHP 函数对变量 $x 进行比较
 
@@ -195,7 +195,7 @@ array() | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE 
 上面说了这么多弱类型下的问题，这里说下弱类型的优点，弱类型一个明显的优势就是灵活   
 PHP动态特性，可以动态实例化，动态添加属性，动态调用函数，等，通过这些特性可以用简单的代码封装出强大的功能
 
-![image](http://blog.thankbabe.com/imgs/pt3.jpg?v=3)
+![image](https://sflaqiu.github.io/imgs/pt3.jpg?v=3)
 
 简单举栗子：
 ```php
@@ -422,7 +422,7 @@ fastcgi模式下目前比较合理的方式就是通过单例模式，保证在�
 
 #### 最近阶段感悟
 
-![image](http://blog.thankbabe.com/imgs/pt5.jpeg?v=7)
+![image](https://sflaqiu.github.io/imgs/pt5.jpeg?v=7)
 
 从一个熟悉的语言到另一个相对陌生的语言，语言只是工具，在适合的场景下使用适合的工具，从自己熟悉的业务到陌生的业务，离开自己的舒服区，拥抱变化才能成长
 
@@ -436,6 +436,6 @@ fastcgi模式下目前比较合理的方式就是通过单例模式，保证在�
 
 从技术角度出发需要把项目需求功能开发当成造房子，需要分析业务需求提供合理的设计方案，适当的抽象和使用设计模式，只有在开发的时候把地基打稳了才能保证后续的维护和拓展，避免技术债
 
-![image](http://blog.thankbabe.com/imgs/pt4.png?v=7)
+![image](https://sflaqiu.github.io/imgs/pt4.png?v=7)
 
 > 2019年开年第一篇，祝大家和自己新的一年里猪事顺利，大吉大利!

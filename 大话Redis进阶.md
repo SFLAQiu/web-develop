@@ -1,7 +1,7 @@
 ## 大话Redis进阶
 
 使用Redis过程中，总是会遇到各种各样问题，这里进行问题的总结，作为Redis 进阶的经验分享。
-![图片](http://blog.thankbabe.com/imgs/r_bz.jpg) 
+![图片](https://sflaqiu.github.io/imgs/r_bz.jpg) 
 
 
 
@@ -115,13 +115,13 @@
 
  源码：SetEntryInHash 方法，读取hset的结果 判断是否等于1，返回bool  
  
-![源码](http://blog.thankbabe.com/imgs/r2.png)  
+![源码](https://sflaqiu.github.io/imgs/r2.png)  
 
 我们通过命令：   
 * hset 第一次sflyq  key不存在，添加成功返回的执行结果是：1
 * hset 第一次sflyq  key已经存在，修改成功购返回结果：0
 
-![源码](http://blog.thankbabe.com/imgs/r1.png)  
+![源码](https://sflaqiu.github.io/imgs/r1.png)  
 
 所以结果很明显，通过SetEntryInHash  判断hash是否key value 是否设置成功是有问题的，只有第一次设置会返回 ture  
 

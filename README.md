@@ -1,4 +1,4 @@
-![](http://blog.thankbabe.com/imgs/web-develop.png?v=333)
+![](https://sflaqiu.github.io/imgs/web-develop.png?v=333)
 
 [![协议](https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-%E8%BD%AC%E8%BD%BD%E7%94%B3%E6%98%8E-red.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 ![stars](https://img.shields.io/github/stars/SFLAQiu/web-develop.svg)
@@ -56,6 +56,6 @@
 
 * [我的技术博客](http://blog.thankbabe.com)
 * 我的微信:DreamYYQ    
-![大话WEB开发](http://blog.thankbabe.com/imgs/mywx.jpg)
+![大话WEB开发](https://sflaqiu.github.io/imgs/mywx.jpg)
 * 《大话WEB开发》微信公众号     
-![大话WEB开发](http://blog.thankbabe.com/imgs/gzh.jpg)
+![大话WEB开发](https://sflaqiu.github.io/imgs/gzh.jpg)
